@@ -1,14 +1,6 @@
 # Bytecoin-Faucet
 
-This is a PHP and MYSQL Faucet for Bytecoin Crypto Currency.
-
-Demo: https://freebytecoin.cf/
-
-You can visit the topic on Bytecoin official forum.
-
-https://bytecointalk.org/showthread.php?tid=72
-
-![Alt text](https://freebytecoin.cf/made-in-mexico.jpg?raw=true "Made in Mexico")
+This is a PHP and MYSQL Faucet for Zcore Crypto Currency forked from Bytecoin faucet by Ratnet.
 
 
 I developed this for free to help spread the word about Bytecoin but if you want to tip me, everything will be appreciated :D
